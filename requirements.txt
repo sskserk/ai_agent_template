@@ -1,0 +1,12 @@
+uvicorn==0.29.0
+python-multipart==0.0.9
+IPython
+langchain
+langgraph
+langchain_openai
+pygraphviz
+langgraph-checkpoint-sqlite
+asyncio
+antlr4-python3-runtime==4.11
+opencv-python
+sympy==1.14.0
