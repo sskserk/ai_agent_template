@@ -15,3 +15,7 @@ pip3 install -r requirements.txt
 python3 main.py
 
 ```
+
+
+
+python -m py_comple inta/main.py
