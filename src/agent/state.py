@@ -8,3 +8,4 @@ class AgentState(BaseModel):
     messages: Annotated[list, add_messages]  = Field(default_factory=list)
 
 
+    notebook: Optional[str] = Field(default="", description="A notebook to store and retrieve information.")
